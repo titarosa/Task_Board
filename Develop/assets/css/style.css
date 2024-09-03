@@ -1,0 +1,32 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  background-color: #f8f9fa;
+}
+
+.card-header {
+  background-color: #fff;
+}
+
+.lane {
+  min-height: 300px;
+}
+
+.lane h2 {
+  font-size: 1.75rem;
+}
+
+.lane .card-body {
+  min-height: 300px;
+}
+
+.border-danger {
+  border-width: 2px !important;
+}
+
+.border-warning {
+  border-width: 2px !important;
+}
+
+.border-light {
+  border-width: 2px !important;
+}
